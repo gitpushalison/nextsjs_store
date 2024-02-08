@@ -1,0 +1,8 @@
+
+.item1{
+    height: 20px;
+    margin-top: 10px;
+    &:last-child{
+        background-color: red;
+    }
+}

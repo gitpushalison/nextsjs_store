@@ -1,0 +1,9 @@
+.item1{
+    height: 40px;
+    &:last-of-type{
+        background-color: red;
+    }
+    &:first-child{
+        background-color: aqua;
+    }
+}
